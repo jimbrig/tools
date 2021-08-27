@@ -1,0 +1,6 @@
+[submodule "s-cli"]
+	path = s-cli
+	url = git@github.com:zquestz/s.git
+[submodule "topgrade"]
+	path = topgrade
+	url = git@github.com:r-darwish/topgrade.git
