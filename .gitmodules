@@ -4,3 +4,27 @@
 [submodule "topgrade"]
 	path = topgrade
 	url = git@github.com:r-darwish/topgrade.git
+[submodule "Tab-Session-Manager"]
+	path = Tab-Session-Manager
+	url = git@github.com:sienori/Tab-Session-Manager.git
+[submodule "bat"]
+	path = bat
+	url = git@github.com:sharkdp/bat.git
+[submodule "scoop"]
+	path = scoop
+	url = git@github.com:lukesampson/scoop.git
+[submodule "choco"]
+	path = choco
+	url = git@github.com:chocolatey/choco.git
+[submodule "fzf"]
+	path = fzf
+	url = git@github.com:junegunn/fzf.git
+[submodule "lsd"]
+	path = lsd
+	url = git@github.com:Peltoche/lsd.git
+[submodule "jq"]
+	path = jq
+	url = git@github.com:stedolan/jq.git
+[submodule "gitomatic"]
+	path = gitomatic
+	url = git@github.com:muesli/gitomatic.git
