@@ -1,6 +1,6 @@
 # Tools 🔨
 
-> Various developer Tools merged into a unified repo as git submodules.
+> Various developer tools merged into a unified monorepo as git submodules.
 
 ## Tools Listing
 
