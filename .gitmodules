@@ -28,3 +28,6 @@
 [submodule "gitomatic"]
 	path = gitomatic
 	url = https://github.com/muesli/gitomatic.git
+[submodule "CloneApp"]
+	path = CloneApp
+	url = git@github.com:builtbybel/CloneApp.git
